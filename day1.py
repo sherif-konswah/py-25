@@ -2,6 +2,8 @@
 #Python full course for beginners | complete all-in-one tutorial | 9 hours
 #Chanel
 #Dave Gray
+# course link https://www.youtube.com/watch?v=H2EJuAcrZYU
+#<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #from vedio start
 #Up To 1:20:00 in vedio
 

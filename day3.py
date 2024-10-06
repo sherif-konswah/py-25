@@ -157,7 +157,7 @@ print(anothertuple.count(2))
 
 
 #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Start From Time 2:13:48 To 
+# Start From Time 2:13:48 To :43:07
 #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Dictionaries
@@ -306,5 +306,44 @@ sets1 ={1,2,3,4,True,False,0}
 print(sets1)
 
 # Check value in set
-2.36
+print(2 in sets1)
+
+#Add new  element to set
+sets1.add(8)
+print(sets1)
+
+moresets ={99,98,97}
+sets1.update(moresets)
+
+print(sets1)
+
+# you can use update with lists , tuples, and dicitionaries
+sets1.update(band)
+print(sets1)
+
+print("--------------------------")
+#Merge two set in new set
+one_set = {1,2,3}
+two_set = {5,6,7}
+
+merge_set = one_set.union(two_set)
+print(merge_set)
+
+#Find Duplicated value in sets
+one_set = {1,2,3}
+two_set = {3,2,7}
+
+one_set.intersection_update(two_set)
+print(one_set)
+
+
+
+
+#Find every value not Duplicated value in sets
+one_set = {1,2,3}
+two_set = {3,2,7}
+
+one_set.symmetric_difference_update(two_set)
+print(one_set)
+
 print('-----------------')
