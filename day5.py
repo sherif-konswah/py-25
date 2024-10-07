@@ -1,6 +1,6 @@
 # course link https://www.youtube.com/watch?v=H2EJuAcrZYU
 #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Start From Time 3:05:51 TO 3:20:32
+# Start From Time 3:05:51 TO 3:29:48
 #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #Functions
@@ -52,3 +52,38 @@ def mult_named_items(**kwargs):
 
 
 mult_named_items(first='ali',last='hassan')
+
+
+print('------------------------------------------')
+print('**** Recursion التكرار ****')
+
+def add_one(num):
+    if(num >=9):
+        return num + 1
+    
+    total = num + 1
+    print(total)
+    
+    return add_one(total)
+
+
+mynewtotal = add_one(0)
+print(mynewtotal)
+
+print('-------')
+value = "y" # It is mean TRUE
+count = 0
+
+while value == "y":
+    count += 1
+    print(count)
+    if(count == 5):
+        print("Hi man")
+    elif (count == 7):
+        value = False
+        break
+    else:
+        continue
+    
+
+
