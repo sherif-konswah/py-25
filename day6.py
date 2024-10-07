@@ -1,6 +1,6 @@
 # course link https://www.youtube.com/watch?v=H2EJuAcrZYU
 #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Start From Time 3:38:29 To
+# Start From Time 3:38:29 To 3:57:16
 # #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 print("********* SCOPE *********")
