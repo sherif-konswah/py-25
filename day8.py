@@ -1,6 +1,6 @@
 # course link https://www.youtube.com/watch?v=H2EJuAcrZYU
 #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Start From Time 4:16:17 To 4:34:48
+# Start From Time 4:16:17 To 4:39:00
 # #<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 print("********* F-Strings *********")
